@@ -1,0 +1,22 @@
+.App {
+  padding:30px;
+
+}
+button{
+  background: darkred;
+  color:white;
+  padding:5px 30px;
+}
+.displayInline{
+  display:flex;
+}
+.App input{
+  padding: 10px;
+  border:1px solid green;
+  margin: 10px;
+}
+
+.App input[type="submit"]{
+  background:darkred;
+  color:white;
+}
